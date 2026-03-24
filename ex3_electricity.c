@@ -1,4 +1,4 @@
-/* ADAKU NOBERT MENDEL */
+/* Name: ADAKU NOBERT MENDEL */
 /* Student Number: 25/U/BIO/01351/PD */
 
 #include <stdio.h>
